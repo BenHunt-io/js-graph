@@ -1,0 +1,20 @@
+{
+  "name": "js-graph",
+  "version": "1.0.0",
+  "description": "A simple javascript implementation of a graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "graph",
+    "datastructures"
+  ],
+  "author": "Ben Hunt",
+  "license": "MIT",
+  "dependencies": {
+    "@datastructures-js/queue": "^4.2.1",
+    "jest": "^28.1.1"
+  }
+}
